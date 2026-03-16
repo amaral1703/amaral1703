@@ -4,10 +4,11 @@
 
 <ul>
   <li> Estudante de ADS no IFSP - Jacareí</li>
-  <li> Aprendendo e evoluindo constantemente</li>
+  <li> Sempre aprendendo</li>
   <li> Me encontre no <a href="https://www.linkedin.com/in/gabriel-amaral-abreu/">LinkedIn</a></li>
-  <li> Experiencia como estagiário em Desenvolvimento na Prefeitura de Jacareí - Laravel e V</a></li>
+  <li> Experiencia como estagiário em Desenvolvimento na Prefeitura de Jacareí <a href="https://portaldenegocios.jacarei.sp.gov.br">Portal de Negocios</a>- Laravel e Vue.js</a></li>
 </ul>
+
 
 <h2> Languages and Tools I Use</h2>
 <p>
